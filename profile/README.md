@@ -1,6 +1,6 @@
 # Official Qubic Services from QLI (qubic.li)
 
-Join us on discord https://discord.gg/FR32V3fyBW for support.
+Join us on discord https://discord.gg/FR32V3fyBW for support and feedback.
 
 # Qubic AI Training
 If you want to participate in Qubic's AI Training. You are welcome to join to one of our pools.
@@ -14,7 +14,7 @@ We offer you to use our infrastructure to operate your own farm.
 - [How to use Farm Connect](https://github.com/qubic-li/client/blob/main/farm-connect.md)
 
 Operating your own farm with farm connect allows you to minimize traffic and delay between your miners and the pool. It Works as a proxy between.
-To use farm connect, please contact our supporters in [Discord](https://discord.gg/FR32V3fyBW).
+To use farm connect, please contact our supporters on [Discord](https://discord.gg/FR32V3fyBW).
 
 ## Pools And Fees And Revenue
 QLI operates three own pools. Each pool is operated by dedicated operators. We run two solo and one PPS pool.
@@ -27,10 +27,9 @@ The revenue is distributed always **one** week after you have commited your shar
 
 The reward is proportional to your contribution.
 
-![qli-rev-calc-explained](https://github.com/user-attachments/assets/ae1f9075-c557-41ea-8d84-e582387a6a7a)
+<img src="https://github.com/user-attachments/assets/554bda11-30d1-48fb-8fe1-381703c06d78" width="400">
 
-
-Please contact our supporters in [Discord](https://discord.gg/FR32V3fyBW) if you have questions or need to connect a big farm.
+Please contact our supporters on [Discord](https://discord.gg/FR32V3fyBW) if you have questions or need to connect a big farm.
 
 # Social Responsability
 QLI engages itself in the Qubic Community by supporting the further development.
