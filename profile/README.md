@@ -1,4 +1,4 @@
-![qli-rev-calc-explained](https://github.com/user-attachments/assets/a4be1cd7-f904-492f-a13e-bb699cfd4c02)# Official Qubic Services from QLI (qubic.li)
+# Official Qubic Services from QLI (qubic.li)
 
 Join us on discord https://discord.gg/FR32V3fyBW for support.
 
@@ -27,8 +27,7 @@ The revenue is distributed always **one** week after you have commited your shar
 
 The reward is proportional to your contribution.
 
-
-![qli-rev-calc-explained](https://github.com/user-attachments/assets/0eb937c7-2e7f-4271-adb4-111d47f51ba0)
+![qli-rev-calc-explained](https://github.com/user-attachments/assets/ae1f9075-c557-41ea-8d84-e582387a6a7a)
 
 
 Please contact our supporters in [Discord](https://discord.gg/FR32V3fyBW) if you have questions or need to connect a big farm.
