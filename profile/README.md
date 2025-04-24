@@ -31,7 +31,7 @@ The reward is proportional to your contribution.
 
 Please contact our supporters on [Discord](https://discord.gg/FR32V3fyBW) if you have questions or need to connect a big farm.
 
-# Social Responsability
+# Social Responsibility
 QLI engages itself in the Qubic Community by supporting the further development.
 
 ## Current Engagements
