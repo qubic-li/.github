@@ -2,6 +2,9 @@
 
 Join us on discord https://discord.gg/FR32V3fyBW for support and feedback.
 
+## System Status
+If you feel something is wrong. Check the current system status on [up.qubic.li](https://up.qubic.li/).
+
 # Qubic AI Training
 If you want to participate in Qubic's AI Training. You are welcome to join to one of our pools.
 
@@ -15,6 +18,9 @@ We offer you to use our infrastructure to operate your own farm.
 
 Operating your own farm with farm connect allows you to minimize traffic and delay between your miners and the pool. It Works as a proxy between.
 To use farm connect, please contact our supporters on [Discord](https://discord.gg/FR32V3fyBW).
+
+## Customizing
+We offer customizing services. If you have a specific need, ask us and we are happy to help you.
 
 ## Pools And Fees And Revenue
 QLI operates three own pools. Each pool is operated by dedicated operators. We run two solo and one PPS pool.
@@ -40,4 +46,5 @@ QLI engages itself in the Qubic Community by supporting the further development.
 - Supporting development of Mobile Wallets
 - Operating special Qubic nodes dedicated for public integration services
 - Providing public network statistics
+- We operate Qubic nodes on minium two continents
 
