@@ -11,6 +11,15 @@ If you want to participate in Qubic's AI Training. You are welcome to join to on
 1. [Official Client and Documentation](https://github.com/qubic-li/client)
 2. [Information for HiveOs Users](https://github.com/qubic-li/hiveos)
 
+## Qubic Monero (XMR) Mining
+As part of the Qubic Outsourced Computation initiative we built a POC in which the Qubic AI Trainers mine partially Monero.
+Currently there is a 50/50 portion between Qubic Ai Training and Monero XMR Mining.
+
+Qubic has built it's own Monero Pool to demonstrate how a 3rd party can profit from the Qubic compute power.
+
+With this, you can join Qubic. You will earn Qubic (not XMR). Join our [discord](https://discord.gg/FR32V3fyBW) server to get more information.
+If just want to start, downlaod the [Client](https://github.com/qubic-li/client) and create your personal Account on [pool.qubic.li](https://pool.qubic.li).
+
 ## Operate Your Own Farm
 We offer you to use our infrastructure to operate your own farm.
 
