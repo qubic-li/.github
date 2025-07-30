@@ -10,6 +10,7 @@ If you want to participate in Qubic's AI Training. You are welcome to join to on
 
 1. [Official Client and Documentation](https://github.com/qubic-li/client)
 2. [Information for HiveOs Users](https://github.com/qubic-li/hiveos)
+3. [Information for Monero/XMR Users](https://github.com/qubic-li/.github/blob/main/profile/monero-xmr-on-qubic.md)
 
 ## Qubic Monero (XMR) Mining
 As part of the Qubic Outsourced Computation initiative we built a PoC in which the Qubic AI Trainers mine partially Monero.
@@ -28,13 +29,17 @@ We offer you to use our infrastructure to operate your own farm.
 Operating your own farm with farm connect allows you to minimize traffic and delay between your miners and the pool. It Works as a proxy between.
 To use farm connect, please contact our supporters on [Discord](https://discord.gg/FR32V3fyBW).
 
+## Connect your own Miner
+If you are a miner dev, you can use [Pool Connect](https://github.com/qubic-li/pool-connect) to connect your miner to the QLI Pools.
+Your contribution is automatically balanced to all the connected pools.
+
 ## Customizing
 We offer customizing services. If you have a specific need, ask us and we are happy to help you.
 
 ## Pools And Fees And Revenue
 QLI operates three own pools. Each pool is operated by dedicated operators. We run two solo and one PPS pool.
 
-For all pools the maximum fee is `10%`.
+For all pools the maximum fee is `7%`.
 
 The revenue is distributed always **one** week after you have commited your shares or solutions.
 
