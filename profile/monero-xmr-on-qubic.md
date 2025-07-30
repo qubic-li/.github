@@ -58,6 +58,7 @@ Optional you can pass a rig name with `--rig-id="MySuperRig"`
 
 ### How To Add A Pool In Mining Rig Rentals
 <img width="500" alt="mrr-pool-sample" src="https://github.com/user-attachments/assets/261982ec-4429-4b35-8d40-2207df04b430" />
+
 1. Give your pool a name
 2. Add the pool address: `xmr.qubic.li:3333`
 3. Add the worker name: `QUBICADRESSS` or `QLI_ACCESS_TOKEN` or `QLI_USERID`
