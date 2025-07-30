@@ -12,7 +12,7 @@ If you want to participate in Qubic's AI Training. You are welcome to join to on
 2. [Information for HiveOs Users](https://github.com/qubic-li/hiveos)
 
 ## Qubic Monero (XMR) Mining
-As part of the Qubic Outsourced Computation initiative we built a POC in which the Qubic AI Trainers mine partially Monero.
+As part of the Qubic Outsourced Computation initiative we built a PoC in which the Qubic AI Trainers mine partially Monero.
 Currently there is a 50/50 portion between Qubic Ai Training and Monero XMR Mining.
 
 Qubic has built it's own Monero Pool to demonstrate how a 3rd party can profit from the Qubic compute power.
