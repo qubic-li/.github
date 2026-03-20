@@ -1,22 +1,44 @@
 # Official Qubic Services from QLI (qubic.li)
 
-Join us on discord https://discord.gg/FR32V3fyBW for support and feedback.
+Join us on discord [https://discord.gg/FR32V3fyBW](https://discord.gg/FR32V3fyBW) for support and feedback.
 
 ## System Status
 If you feel something is wrong. Check the current system status on [up.qubic.li](https://up.qubic.li/).
 
+---
+
+## 🐕 Dogecoin Mining — Launching April 2026
+
+Qubic is bringing DOGE mining to the network. Not as a replacement — as an expansion. Scrypt ASIC miners run **in parallel** with AI training. Your GPUs keep training Aigarth. Your ASICs earn on top.
+
+### Why this is different
+- **Parallel, not alternating** — ASICs (Scrypt) and GPUs (AI) work simultaneously. No resource conflict.
+- **Decentralized validation** — Every DOGE share is verified on-chain through [Oracle Machines](https://docs.qubic.org/developers/oracles/). No single pool operator trust required.
+- **Revive retired hardware** — L3+, L7, and other Scrypt ASICs that can't profit on standalone DOGE pools become valuable again.
+
+### 📋 Register for Early Access
+
+We're onboarding ASIC miners ahead of launch. Register to get notified when DOGE mining goes live and secure your spot in the pool.
+
+**→ [Register now](https://forms.gle/X4RGrKnrCiEwxEEs9)**
+
+[Learn how the architecture works →](https://qubic.org/blog-detail/qubic-dogecoin-mining-how-it-works)
+
+---
+
 # Qubic AI Training
 If you want to participate in Qubic's AI Training. You are welcome to join to one of our pools.
 
-1. [Official Client and Documentation](https://github.com/qubic-li/client)
-2. [Information for HiveOs Users](https://github.com/qubic-li/hiveos)
-3. [Information for Monero/XMR Users](https://github.com/qubic-li/.github/blob/main/profile/monero-xmr-on-qubic.md)
+- [Official Client and Documentation](https://github.com/qubic-li/client)
+- [Information for HiveOs Users](https://github.com/qubic-li/hiveos)
 
 ## Qubic Monero (XMR) Mining
+- [Information for Monero/XMR Users](https://github.com/qubic-li/.github/blob/main/profile/monero-xmr-on-qubic.md)
+  
 As part of the Qubic Outsourced Computation initiative we built a PoC in which the Qubic AI Trainers mine partially Monero.
 Currently there is a 50/50 portion between Qubic Ai Training and Monero XMR Mining.
 
-Qubic has built it's own Monero Pool to demonstrate how a 3rd party can profit from the Qubic compute power.
+Qubic has built its own Monero Pool to demonstrate how a 3rd party can profit from the Qubic compute power.
 
 With this, you can join Qubic. You will earn Qubic (not XMR). Join our [discord](https://discord.gg/FR32V3fyBW) server to get more information.
 If just want to start, downlaod the [Client](https://github.com/qubic-li/client) and create your personal Account on [pool.qubic.li](https://pool.qubic.li).
