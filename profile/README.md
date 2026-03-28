@@ -24,6 +24,10 @@ We're onboarding ASIC miners ahead of launch. Register to get notified when DOGE
 
 [Learn how the architecture works →](https://qubic.org/blog-detail/qubic-dogecoin-mining-how-it-works)
 
+### Test your connection
+
+See instructions for [Doge On Qubic](https://github.com/qubic-li/.github/blob/main/profile/doge-scrypt-on%20qubic.md) to test your equipment.
+
 ---
 
 # Qubic AI Training
