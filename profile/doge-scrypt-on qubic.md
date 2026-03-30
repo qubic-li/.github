@@ -50,10 +50,12 @@ Optionally you can pass a rig name with `--rig-id="MySuperRig"`
 
 ### How To Add A Pool In Mining Rig Rentals
 
-1. Give your pool a name
-2. Add the pool address: `doge.qubic.li:12480`
-3. Add the worker name: `QUBICADDRESS` or `QLI_ACCESS_TOKEN` or `QLI_USERID`
-4. The password can be left empty
+- Pool Label: `Qubic`
+- Pool Host:Port: `doge.qubic.li:12480`
+- Workername: `VAVZCPHUDJEZXCQXYOOOBIKJQHWBVKZMLUDCPEFDEEZKGZJQMJYGSUMDRYQZ.workerName`
+- Passwort: `` (empty)
+
+`workerName` can have max 12 characters
 
 ## QLI Pools Rules
 
