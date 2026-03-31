@@ -57,15 +57,6 @@ Optionally you can pass a rig name with `--rig-id="MySuperRig"`
 
 `workerName` can have max 12 characters
 
-## QLI Pools Rules
-
-This Pool uses a single payment system.
-At the end of each Epoch, your delivered solutions/shares are used to calculate your stake in Epoch+1. Payout is always one week (epoch) after. The Pool fee is max 10%.
-
-### PPS vs. Solo
-
-With the QLI pools you can choose between PPS (Pay Per Share) or solo training. With PPS you avoid the own volatility which is useful for smaller environments. It is also allowed to run some workers as PPS and others as solo training where you will see revenue only when you find valid Qubic Solutions.
-
 ### When Payout
 
-Rewards are distributed each Wednesday.
+Rewards are distributed each Wednesday in Qubic.
