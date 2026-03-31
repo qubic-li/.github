@@ -37,7 +37,7 @@ DOGE mining on Qubic is **feeless** during the launch phase. No pool fees, no hi
 | **Phase 2+ (Full launch)** | Buyback mechanism kicks in. QUBIC rewards can be topped up to ~110% from buyback proceeds. Any surplus is burned. |
 
 ### Qubic AI Training (separate)
-- Pool fee: max 10% (applies to QUBIC rewards from CPU/GPU AI training only)
+- Pool fee: max 7% (applies to QUBIC rewards from CPU/GPU AI training only)
 - PPS or Solo mode available
 - Payouts: Weekly, one epoch after contribution
 

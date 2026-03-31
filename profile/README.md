@@ -9,24 +9,20 @@ If you feel something is wrong. Check the current system status on [up.qubic.li]
 
 ## 🐕 Dogecoin Mining — Launching April 2026
 
-Qubic is bringing DOGE mining to the network. Not as a replacement — as an expansion. Scrypt ASIC miners run **in parallel** with AI training. Your GPUs keep training Aigarth. Your ASICs earn on top.
+Qubic is bringing DOGE mining to the network. Not as a replacement — as an expansion. Scrypt ASIC miners run **in parallel** with AI training. Your CPUs/GPUs keep training Aigarth. Your ASICs earn on top.
 
 ### Why this is different
 - **Parallel, not alternating** — ASICs (Scrypt) and GPUs (AI) work simultaneously. No resource conflict.
 - **Decentralized validation** — Every DOGE share is verified on-chain through [Oracle Machines](https://docs.qubic.org/developers/oracles/). No single pool operator trust required.
 - **Revive retired hardware** — L3+, L7, and other Scrypt ASICs that can't profit on standalone DOGE pools become valuable again.
 
-### 📋 Register for Early Access
+### Start Mining
 
-We're onboarding ASIC miners ahead of launch. Register to get notified when DOGE mining goes live and secure your spot in the pool.
+Phase 1 (Testing) is live. Point your Scrypt ASIC to `stratum+tcp://doge.qubic.li:12480` and start earning.
 
-**→ [Register now](https://forms.gle/X4RGrKnrCiEwxEEs9)**
+**→ [Full setup guide](https://github.com/qubic-li/.github/blob/main/profile/doge-scrypt-on%20qubic.md)**
 
 [Learn how the architecture works →](https://qubic.org/blog-detail/qubic-dogecoin-mining-how-it-works)
-
-### Test your connection
-
-See instructions for [Doge On Qubic](https://github.com/qubic-li/.github/blob/main/profile/doge-scrypt-on%20qubic.md) to test your equipment.
 
 ---
 
@@ -45,7 +41,7 @@ Currently there is a 50/50 portion between Qubic Ai Training and Monero XMR Mini
 Qubic has built its own Monero Pool to demonstrate how a 3rd party can profit from the Qubic compute power.
 
 With this, you can join Qubic. You will earn Qubic (not XMR). Join our [discord](https://discord.gg/FR32V3fyBW) server to get more information.
-If just want to start, downlaod the [Client](https://github.com/qubic-li/client) and create your personal Account on [pool.qubic.li](https://pool.qubic.li).
+If just want to start, download the [Client](https://github.com/qubic-li/client) and create your personal Account on [pool.qubic.li](https://pool.qubic.li).
 
 ## Operate Your Own Farm
 We offer you to use our infrastructure to operate your own farm.
