@@ -9,10 +9,7 @@ Your CPUs/GPUs keep training Aigarth. Your ASICs earn on top. 100% AI + 100% DOG
 1. Create a Qubic Id/Address: [docs.qubic.org/learn/wallets](https://docs.qubic.org/learn/wallets)
 2. Point your Scrypt miner to: `stratum+tcp://doge.qubic.li:12480`
 3. Use your **Qubic Id/Address** as the username
-4. Monitor on [pool.qubic.li](https://pool.qubic.li)
-
-> [!CAUTION]
-> Phase 1 (Testing) starts April 1, 2026. DOGE mining is live on mainnet but rewards are not yet active during this phase. However, the pool will pay QUBIC to all testers. See [Transition Plan](#transition-plan) below.
+4. Monitor on [platform.qubic.li](https://platform.qubic.li)
 
 ## How It Works
 
