@@ -49,7 +49,9 @@ Any Scrypt-compatible ASIC miner works: Antminer L3+, L7, L9, Goldshell Mini-DOG
 
 | Location | Address |
 |---|---|
-| World | `stratum+tcp://doge.qubic.li:12480` |
+| World (auto detection) | `stratum+tcp://doge.qubic.li:12480` |
+| US | `stratum+tcp://us.doge.qubic.li:12480` |
+| ASIA | `stratum+tcp://asia.doge.qubic.li:12480` |
 
 ### Mining Commands
 
