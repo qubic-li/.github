@@ -74,7 +74,7 @@ Optionally pass a rig name: `--rig-id="MySuperRig"`
 - **Pool Label:** `Qubic DOGE`
 - **Pool Host:Port:** `doge.qubic.li:12480`
 - **Workername:** `QUBICADDRESS.workerName` (worker max 12 characters)
-- **Password:** *(empty)*
+- **Password:** *(empty)* or *d=153000000* (difficulty to start the session)
 
 ## Transition Plan
 
