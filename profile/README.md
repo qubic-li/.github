@@ -7,9 +7,15 @@ If you feel something is wrong. Check the current system status on [up.qubic.li]
 
 ---
 
-## 🐕 Dogecoin Mining — Launching April 2026
+## 🐕 Dogecoin Mining — Launching April 2026 - ON HOLD
 
-Qubic is bringing DOGE mining to the network. Not as a replacement — as an expansion. Scrypt ASIC miners run **in parallel** with AI training. Your CPUs/GPUs keep training Aigarth. Your ASICs earn on top.
+> [!IMPORTANT]  
+> DOGE on Qubic is currently paused
+> 
+<details>
+  <summary></summary>
+  
+  Qubic is bringing DOGE mining to the network. Not as a replacement — as an expansion. Scrypt ASIC miners run **in parallel** with AI training. Your CPUs/GPUs keep training Aigarth. Your ASICs earn on top.
 
 ### Why this is different
 - **Parallel, not alternating** — ASICs (Scrypt) and GPUs (AI) work simultaneously. No resource conflict.
@@ -23,6 +29,8 @@ Phase 1 (Testing) is live. Point your Scrypt ASIC to `stratum+tcp://doge.qubic.l
 **→ [Full setup guide](https://github.com/qubic-li/.github/blob/main/profile/doge-scrypt-on%20qubic.md)**
 
 [Learn how the architecture works →](https://qubic.org/blog-detail/qubic-dogecoin-mining-how-it-works)
+</details>
+
 
 ---
 
