@@ -1,4 +1,12 @@
-# Monero (XMR) on Qubic
+# Monero (XMR) on Qubic - Obsolete
+
+> [!IMPORTANT]  
+> Monero (XMR) on Qubic has been finished
+>
+ 
+<details>
+  <summary></summary>
+  
 The [Qubic Monero PoC](https://qubic.org/blog-detail/outsourced-computations-a-step-toward-decentralized-ai-innovation) enables you to mine Monero (XMR) on the Qubic network.
 
 Normally only 50% of the time XMR mining is enabled. To fully support Qubic we offer you an easy way to connect with the [QLI Client](https://github.com/qubic-li/client/).
@@ -92,3 +100,6 @@ The Revenue is distributed by one part of Qubic AI Training and another of Custo
 6. Direct Voting by Big Miners Large miners who wish to cast their votes directly instead of through the pool may contact the QLI team for arrangements.
 
 *Note: QLI Pools do not abstain from voting, except as specified in Rule 1.*
+
+
+</details>
