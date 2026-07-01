@@ -1,5 +1,11 @@
 # Dogecoin (DOGE) on Qubic
 
+> [!IMPORTANT]  
+> DOGE on Qubic is currently paused
+> 
+<details>
+  <summary></summary>
+
 The [Qubic Dogecoin Integration](https://qubic.org/blog-detail/qubic-dogecoin-mining-transition-plan-april-2026) brings Scrypt ASIC mining to the Qubic network — running **in parallel** with AI training, not replacing it.
 
 Your CPUs/GPUs keep training Aigarth. Your ASICs earn on top. 100% AI + 100% DOGE, simultaneously.
@@ -92,3 +98,4 @@ The network transitions from XMR to DOGE in 3 phases. [Full details →](https:/
 - [Doge Connect (GitHub)](https://github.com/qubic/doge-connect)
 - [Discord — #dogecoin channel](https://discord.com/channels/768887649540243497/1406921333635551283)
 - [pool.qubic.li](https://pool.qubic.li)
+</details>
